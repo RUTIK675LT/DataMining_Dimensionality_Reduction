@@ -16,7 +16,7 @@ The colab cover cases where these techniques works and where it does not works.
 
 # Task 3 -
 
-Dimensionality reduction using data bricks
+## Dimensionality reduction using data bricks
 
 Thank you!!!
 
