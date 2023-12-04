@@ -12,7 +12,7 @@ The colab cover cases where these techniques works and where it does not works.
 
 # Task 2 - 
 
-## UMAP followed by Clustering -
+## UMAP followed by Clustering
 
 # Task 3 -
 
